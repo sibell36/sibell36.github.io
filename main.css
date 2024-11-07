@@ -1,14 +1,13 @@
 body {
-  font-family: 'Times New Roman', Times, serif, sans-serif;
- background-color: palegreen;
+  font-family: Arial, sans-serif;
   max-width: 70rem;
   margin-left: 10px;
   margin-right: 1opx;
 }
 
 .newheader {
-  background-color: rgb(171, 39, 39);
-  color: rgb(255, 255, 255);
+  background-color: darkblue;
+  color: white;
   font-size: 18px;
   padding-top: 10px;
   padding-bottom: 10px;

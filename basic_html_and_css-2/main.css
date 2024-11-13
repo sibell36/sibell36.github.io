@@ -1,7 +1,8 @@
 body {
-  font-family: Times New Roman;
+  background color: palegreen
+  font-family: Times New Roman, Times, Times;
   max-width: 70rem;
-  margin-center: 10px;
+  margin-right: 10px;
   margin-right: 1opx;
 }
 

@@ -2,12 +2,12 @@ body {
   background-color: lightblue;
   font-family: Times New Roman, Times, Times;
   max-width: 70rem;
-  margin-right: 10px;
-  margin-right: 1opx;
+  margin-left: 10px;
+  margin-left: 1opx;
 }
 
 .newheader {
-  background-color: lightpink;
+  background-color: lightblue;
   color: white;
   font-size: 25px;
   padding-top: 10px;

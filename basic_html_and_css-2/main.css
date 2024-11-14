@@ -1,15 +1,15 @@
 body {
-  background-color: lightblue;
-  font-family: Times New Roman, Times, Times;
+  background-color: rgb(154, 179, 226);
+  font-family: 'Times New Roman', Times, Times;
   max-width: 70rem;
   margin-left: 10px;
-  margin-left: 1opx;
+  margin-right: 1opx;
 }
 
 .newheader {
-  background-color: purple;
-  color: white;
-  font-size: 25px;
+  background-color: rgb(181, 119, 242);
+  color: rgb(0, 0, 0);
+  font-size: 18px;
   padding-top: 10px;
   padding-bottom: 10px;
   padding-left: 10%;
@@ -22,9 +22,8 @@ img {
 }
 
 .caption {
-  font: Times New Roman;
   font-size: 14px;
-  margin-center: 0px;
+  margin-left: 0px;
   margin-right: 0px;
   margin-top: 5px
 }

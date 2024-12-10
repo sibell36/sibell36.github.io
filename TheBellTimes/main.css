@@ -1,0 +1,101 @@
+style
+
+.navbar-custom {
+	background-color: blue;
+}
+
+.headerfont { 
+ font-family:'Times New Roman', Times, serif;
+}
+
+body {
+	background-color: rgb(198, 230, 231);
+	font-family: 'Times New Roman', Times, serif;
+	font-size: medium;
+}
+
+.row {
+	border: 3px;
+	font-family: 'Times New Roman', Times, serif;
+	border-style: solid;
+	border-color: transparent;
+	border-width: thin;
+	text-align: left;
+	padding: 50px;
+	font-size: medium;
+}
+.col{
+	border: 3px;
+	border-style: solid;
+	border-color: transparent;
+	font-family: 'Times New Roman', Times, serif;
+	border-width: thin;
+	text-align: justify;
+	padding: 10px;
+	font-size: medium;
+}
+
+head {
+	margin:100px;
+	font-family: 'Times New Roman', Times, serif;
+}
+h1 {
+	text-align: center;
+	font-family: 'Times New Roman', Times, serif;
+	font-size: x-large;
+}
+.col{
+	border-color: transparent;
+}
+.p1{
+	text-align:center;
+	font-family: 'Times New Roman', Times, serif;
+	padding-top: 50px;
+	font-size: small;
+}
+	.p2{
+		text-align: left;
+		font-family: 'Times New Roman', Times, serif;
+		padding-top: 50px;
+		font-size: small;
+}
+
+.p3{
+	font-size: larger;
+	text-align: center;
+	padding-top: 50px;
+}
+.graph1 {
+	flex-wrap: float;
+	font-family: 'Times New Roman', Times, serif;
+	padding-top: 25px;
+}
+
+.mask{
+    float: left;
+}
+
+.covid{
+    float: left;
+    width: 50%;
+    margin: 0 auto;
+    height: auto;
+    max-width: 400px;
+}
+.material-symbols-outlined {
+  font-variation-settings: 
+  'FILL' 0,
+  'wght' 1000,
+  'GRAD' 1000,
+  'opsz' 30
+  'float' center, 
+}
+    .container {
+      flex-direction: column;
+    }
+
+.Covid-19{
+	float: right;
+}
+
+
